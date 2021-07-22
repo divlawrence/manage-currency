@@ -1,0 +1,6 @@
+com\example\managecurrency\ManageCurrencyApplication.class
+com\example\managecurrency\bean\Currency.class
+com\example\managecurrency\repo\ManageCurrencyRepository.class
+com\example\managecurrency\service\ManageCurrencyService.class
+com\example\managecurrency\service\Operation.class
+com\example\managecurrency\controller\ManageCurrencyController.class
